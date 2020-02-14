@@ -1,1 +1,0 @@
-https://inst.eecs.berkeley.edu/~cs61b/sp20/
